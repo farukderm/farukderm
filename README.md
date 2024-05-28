@@ -1,9 +1,10 @@
-### Hi there 👋
+ 👋
+
+### <h1>Hi!!!   My Name İs Faruk </h1>
+<h3> I'm learning Front End and React  I Like Programming</h3>
 
 
-**farukderm/farukderm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning React
