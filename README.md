@@ -8,7 +8,8 @@ sty
 
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning React
-
+* i gradute Computer Programming and MIS(Management Information System)
+* i learn some programming language fundemetals(JS,Python,C#)
 - 📫 How to reach me: farukderm@gmail.com    x.com = Faruk Dermenci  @DRMNCFRK
 
 
