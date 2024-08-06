@@ -10,7 +10,10 @@
 - 🔭 I’m currently working on **frontend**
 
 - 🌱 I’m currently learning **reactjs**
+- 
+- 🔮 I develop projects with React
 
+- 
 - 💬 Ask me about **react,html,css,js**
 
 - 📫 How to reach me **farukderm@gmail.com**
