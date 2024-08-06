@@ -3,7 +3,7 @@ Faruk Dermenci
 Front-End Developer | React Developer | Software Developer
 
 👋 Merhaba! Ben Faruk Dermenci, modern web uygulamaları geliştirmeye odaklanmış tutkulu bir Front-End Developer'ım. React ve ilgili teknolojilerde çalışıyorum ve kendimi geliştirmeye devam ediyorum
-arı ile çalışma.
+
 
 
 📫 Bana Ulaşın
